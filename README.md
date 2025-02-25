@@ -78,3 +78,4 @@ A passionate AI & Machine Learning Engineering student with experience in web de
 
 ---
 💻 Happy Coding!
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
