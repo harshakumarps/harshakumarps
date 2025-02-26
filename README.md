@@ -20,17 +20,6 @@ A passionate AI & Machine Learning Engineering student with experience in web de
 
 - **B.E in Artificial Intelligence & Machine Learning** (2021-2025)  
   Adichunchanagiri Institute of Technology  
-  CGPA: 8.1
-
-- **Pre-university course** (2019-2021)  
-  St. Mary's PU College  
-  Percentage: 76%
-
-- **Secondary Education** (2015-2018)  
-  St. Mary's High School  
-  Percentage: 82%
-
-## 🛠 Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
